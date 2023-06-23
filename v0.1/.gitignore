@@ -9,6 +9,10 @@
 .history
 .svn/
 migrate_working_dir/
+analysis_options.yaml
+.metadata
+.gitignore
+pubscpec.lock
 
 # IntelliJ related
 *.iml
@@ -35,6 +39,8 @@ migrate_working_dir/
 /windows/
 /test/
 /web/
+/linux/
+/macos/
 
 # Symbolication related
 app.*.symbols
