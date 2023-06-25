@@ -7,15 +7,18 @@ Basic App finished with course like features
 ### (NOT Released)
 Animations added
 
-## V 0.3 (NOT Released)
+## V 0.3 
+### (NOT Released)
 Custom Features added
 > Add new category
 >
 > Add new meal to any category
 
-## V 0.4 (NOT Released)
+## V 0.4 
+### (NOT Released)
 Custom Features added
 > Delete Meals and category
 
-## V 1.0 (NOT Released)
+## V 1.0 
+### (NOT Released)
 Backend implemented with user auth and data storage
