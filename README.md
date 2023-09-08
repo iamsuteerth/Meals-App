@@ -23,3 +23,7 @@ A simple app made while following the course. Demonstrating familiarity with the
 > 10. Basic bottom navigation bar
 
 ## How the app looks and works
+### Categories Home Screen
+<p align="center">
+  <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Categories_HomePage.jpg"/>
+</p>
