@@ -31,6 +31,13 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+<<<<<<< HEAD:ver_0_1/.gitignore
+/ios/
+/windows/
+/test/
+/web/
+=======
+>>>>>>> 061490366abaeaecc890689b4251ae42ee44cde0:v0_1/.gitignore
 
 # Symbolication related
 app.*.symbols
