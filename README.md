@@ -1,24 +1,25 @@
 # Meals-App
+A simple app made while following the course. Demonstrating familiarity with these functionalities.
 
-## V 0.1
-Basic App finished with course like features
-
-## V 0.2 
-### (NOT Released)
-Animations added
-
-## V 0.3 
-### (NOT Released)
-Custom Features added
-> Add new category
+## Features Showcased
+> 1. Usage of multiple screens.
 >
-> Add new meal to any category
+> 2. App wise state management using RIVERPOD
+>
+> 3. Explicit and Implicit animations
+>
+> 4. Fetching images using URL
+>
+> 5. Usage of features like Hero for in-place animations
+> 
+> 6. Following a pre-defined global theme 
+>
+> 7. Snackbars and Drawers
+>
+> 8. Animated and scrollable gridview
+>
+> 9. Card design (as shown in images)
+>
+> 10. Basic bottom navigation bar
 
-## V 0.4 
-### (NOT Released)
-Custom Features added
-> Delete Meals and category
-
-## V 1.0 
-### (NOT Released)
-Backend implemented with user auth and data storage
+## How the app looks and works
