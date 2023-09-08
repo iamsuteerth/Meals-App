@@ -27,14 +27,17 @@ A simple app made while following the course. Demonstrating familiarity with the
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Categories_HomePage.jpg"/>
 </p>
+
 ### Favourites Screen when empty
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Empty_Favourites_Navigation_Bar.jpg"/>
 </p>
+
 ### Side Drawer
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Side_Drawer.jpg"/>
 </p>
+
 ### Filters Screen (No Filter Selected)
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Filters_Screen.jpg"/>
@@ -43,22 +46,27 @@ A simple app made while following the course. Demonstrating familiarity with the
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Filters_Screen_With_Filters.jpg"/>
 </p>
+
 ### Meals in a category (Without Filters)
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Meal_Item.jpg"/>
 </p>
+
 ### Meals in a category (With Filters)
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/With_Filters.jpg"/>
 </p>
+
 ### Meals Details' Screen
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Meal_Item_Details.jpg"/>
 </p>
+
 ### Adding as Favourite
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Adding_Favourites.jpg"/>
 </p>
+
 ### Favourites' Screen unaffected by filters
 <p align="center">
   <img src="https://github.com/iamsuteerth/Meals-App/blob/main/demo_images/Favourites_Unaffected_By_Filters.jpg"/>
